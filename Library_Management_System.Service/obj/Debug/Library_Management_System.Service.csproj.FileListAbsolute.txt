@@ -1,0 +1,77 @@
+F:\Library soft\cou\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.dll
+F:\Library soft\cou\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.pdb
+F:\Library soft\cou\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.dll
+F:\Library soft\cou\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.pdb
+F:\Library soft\cou\Library_Management_System\Library_Management_System.Service\obj\Debug\ResolveAssemblyReference.cache
+F:\Library soft\cou\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.dll
+F:\Library soft\cou\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.pdb
+G:\project\Shajib\cou\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.dll
+G:\project\Shajib\cou\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.pdb
+G:\project\Shajib\cou\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.dll
+G:\project\Shajib\cou\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.pdb
+G:\project\Shajib\cou\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.csprojResolveAssemblyReference.cache
+G:\project\Shajib\cou\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.dll
+G:\project\Shajib\cou\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.pdb
+G:\project\Shajib\cou\cou_library\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.dll
+G:\project\Shajib\cou\cou_library\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.pdb
+G:\project\Shajib\cou\cou_library\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.dll
+G:\project\Shajib\cou\cou_library\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.pdb
+G:\project\Shajib\cou\cou_library\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.csprojResolveAssemblyReference.cache
+G:\project\Shajib\cou\cou_library\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.dll
+G:\project\Shajib\cou\cou_library\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.pdb
+F:\cou_library\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.dll
+F:\cou_library\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.pdb
+F:\cou_library\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.dll
+F:\cou_library\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.pdb
+F:\cou_library\Library_Management_System\Library_Management_System.Service\obj\Debug\ResolveAssemblyReference.cache
+F:\cou_library\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.dll
+F:\cou_library\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.pdb
+G:\project\Shajib\cou_library\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.dll
+G:\project\Shajib\cou_library\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.pdb
+G:\project\Shajib\cou_library\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.dll
+G:\project\Shajib\cou_library\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.pdb
+G:\project\Shajib\cou_library\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.csprojResolveAssemblyReference.cache
+G:\project\Shajib\cou_library\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.dll
+G:\project\Shajib\cou_library\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.pdb
+F:\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.dll
+F:\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.pdb
+F:\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.dll
+F:\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.pdb
+F:\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\obj\Debug\ResolveAssemblyReference.cache
+F:\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.dll
+F:\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.pdb
+G:\project\Shajib\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.dll
+G:\project\Shajib\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.pdb
+G:\project\Shajib\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.dll
+G:\project\Shajib\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.pdb
+G:\project\Shajib\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.csprojResolveAssemblyReference.cache
+G:\project\Shajib\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.dll
+G:\project\Shajib\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.pdb
+G:\project\Shajib\CoU Latest Library\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.dll
+G:\project\Shajib\CoU Latest Library\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.pdb
+G:\project\Shajib\CoU Latest Library\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.dll
+G:\project\Shajib\CoU Latest Library\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.pdb
+G:\project\Shajib\CoU Latest Library\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.csprojResolveAssemblyReference.cache
+G:\project\Shajib\CoU Latest Library\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.dll
+G:\project\Shajib\CoU Latest Library\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.pdb
+C:\Users\RELIANCE\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.dll
+C:\Users\RELIANCE\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.pdb
+C:\Users\RELIANCE\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.dll
+C:\Users\RELIANCE\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.pdb
+C:\Users\RELIANCE\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RELIANCE\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.dll
+C:\Users\RELIANCE\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.pdb
+C:\Users\Tajnin\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.dll
+C:\Users\Tajnin\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.pdb
+C:\Users\Tajnin\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.dll
+C:\Users\Tajnin\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.pdb
+C:\Users\Tajnin\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.csprojResolveAssemblyReference.cache
+C:\Users\Tajnin\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.dll
+C:\Users\Tajnin\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.pdb
+G:\project\Shajib\Cou Latest Library1\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.dll
+G:\project\Shajib\Cou Latest Library1\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.Service.pdb
+G:\project\Shajib\Cou Latest Library1\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.dll
+G:\project\Shajib\Cou Latest Library1\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Debug\Library_Management_System.DAO.pdb
+G:\project\Shajib\Cou Latest Library1\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.csprojResolveAssemblyReference.cache
+G:\project\Shajib\Cou Latest Library1\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.dll
+G:\project\Shajib\Cou Latest Library1\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\obj\Debug\Library_Management_System.Service.pdb

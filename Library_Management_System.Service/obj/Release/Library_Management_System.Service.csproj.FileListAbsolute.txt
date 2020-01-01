@@ -1,0 +1,14 @@
+G:\project\Shajib\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\bin\Release\Library_Management_System.Service.dll
+G:\project\Shajib\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\bin\Release\Library_Management_System.Service.pdb
+G:\project\Shajib\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\bin\Release\Library_Management_System.DAO.dll
+G:\project\Shajib\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\bin\Release\Library_Management_System.DAO.pdb
+G:\project\Shajib\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\obj\Release\Library_Management_System.Service.csprojResolveAssemblyReference.cache
+G:\project\Shajib\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\obj\Release\Library_Management_System.Service.dll
+G:\project\Shajib\final library\Library_Management_System (10)\Library_Management_System\Library_Management_System.Service\obj\Release\Library_Management_System.Service.pdb
+C:\Users\Tajnin\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Release\Library_Management_System.Service.dll
+C:\Users\Tajnin\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Release\Library_Management_System.Service.pdb
+C:\Users\Tajnin\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Release\Library_Management_System.DAO.dll
+C:\Users\Tajnin\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\bin\Release\Library_Management_System.DAO.pdb
+C:\Users\Tajnin\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\obj\Release\Library_Management_System.Service.csprojResolveAssemblyReference.cache
+C:\Users\Tajnin\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\obj\Release\Library_Management_System.Service.dll
+C:\Users\Tajnin\Desktop\21\Library_Management_System (cou) (3)\Library_Management_System (cou)\Library_Management_System\Library_Management_System.Service\obj\Release\Library_Management_System.Service.pdb
